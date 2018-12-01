@@ -1,0 +1,14 @@
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/bin/Debug/netcoreapp2.1/MediatR.deps.json
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/bin/Debug/netcoreapp2.1/MediatR.runtimeconfig.json
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/bin/Debug/netcoreapp2.1/MediatR.runtimeconfig.dev.json
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/bin/Debug/netcoreapp2.1/MediatR.dll
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/bin/Debug/netcoreapp2.1/MediatR.pdb
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.csprojAssemblyReference.cache
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.csproj.CoreCompileInputs.cache
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.RazorAssemblyInfo.cache
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.RazorAssemblyInfo.cs
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.AssemblyInfoInputs.cache
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.AssemblyInfo.cs
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.RazorTargetAssemblyInfo.cache
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.dll
+/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/Debug/netcoreapp2.1/MediatR.pdb
