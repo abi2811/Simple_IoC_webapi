@@ -10,10 +10,9 @@ namespace FirstMediatR.Data
 {
     public class InMemoryUserRepository : IUserRepository
     {
-        private ISet<User> _userList;
+        private ISet<User> _userList = UserListFactory.CreateUserList();
         public InMemoryUserRepository()
         {
-            _userList = UserListFactory.CreateUserList();
             _userList.Add(new User("user1@email.com", "secret"));
             _userList.Add(new User("user2@email.com", "secret"));
             _userList.Add(new User("user3@email.com", "secret"));

@@ -11633,11 +11633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adrian.staszewski/Programowanie/dotnet/MediatR/FirstMediatR.csproj",
+      "projectUniqueName": "/Users/adrian.staszewski/Programowanie/dotnet/IoC_webapi/FirstMediatR.csproj",
       "projectName": "FirstMediatR",
-      "projectPath": "/Users/adrian.staszewski/Programowanie/dotnet/MediatR/FirstMediatR.csproj",
+      "projectPath": "/Users/adrian.staszewski/Programowanie/dotnet/IoC_webapi/FirstMediatR.csproj",
       "packagesPath": "/Users/adrian.staszewski/.nuget/packages/",
-      "outputPath": "/Users/adrian.staszewski/Programowanie/dotnet/MediatR/obj/",
+      "outputPath": "/Users/adrian.staszewski/Programowanie/dotnet/IoC_webapi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
